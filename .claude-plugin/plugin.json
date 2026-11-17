@@ -1,0 +1,6 @@
+{
+  "name": "duett",
+  "version": "0.1.0",
+  "description": "DUETT: fragt bei jedem neuen Chat, ob eine lokale KI (Standard: Codex) den von Claude geschriebenen Code prüfen soll.",
+  "types": "./types/index.d.ts"
+}

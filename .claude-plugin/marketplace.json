@@ -1,0 +1,11 @@
+{
+  "name": "duett",
+  "owner": { "name": "stuckwave-central" },
+  "plugins": [
+    {
+      "name": "duett",
+      "source": "./",
+      "description": "Eine zweite, lokale KI (Standard: Codex) prüft nach jeder Runde den Code, den Claude geschrieben hat."
+    }
+  ]
+}
